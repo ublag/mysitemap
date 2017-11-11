@@ -1,0 +1,2 @@
+# mysitemap
+sitemap blog
